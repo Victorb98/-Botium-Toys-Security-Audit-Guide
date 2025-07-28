@@ -103,7 +103,7 @@ This project proves my ability to deliver complete cybersecurity assessments wit
 
 ## 🙌 Credits / Acknowledgements  
 
-This project was completed as part of a cybersecurity learning module.  
+This project was completed as part of my Professional Google Cybersecurity Certification.  
 Grateful to the platform for providing such an engaging, realistic scenario. 🙏
 
 ---
